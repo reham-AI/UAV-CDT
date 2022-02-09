@@ -7,3 +7,9 @@ The youtube videos:
 -https://www.youtube.com/watch?v=ERUWJYsU9c
 -https://www.youtube.com/watch?v=RwdcHf3MhTs
 
+Annotation Tool:
+https://github.com/tzutalin/labelImg
+
+Darknet:
+https://pjreddie.com/darknet/
+
