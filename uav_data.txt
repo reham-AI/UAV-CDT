@@ -1,15 +1,2 @@
-The dataset we created:
+The dataset we created with annotation files:
 https://drive.google.com/file/d/13g0TolH2EyCrhYpz7pZbfcRljO9G6odH/view?usp=sharing
-
-The youtube videos:
--https://www.youtube.com/watch?v=jdvLV6dYyRU
--https://www.youtube.com/watch?v=MVOuU8i_xlA
--https://www.youtube.com/watch?v=ERUWJYsU9c
--https://www.youtube.com/watch?v=RwdcHf3MhTs
-
-Annotation Tool:
-https://github.com/tzutalin/labelImg
-
-Darknet:
-https://pjreddie.com/darknet/
-
